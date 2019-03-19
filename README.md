@@ -1,5 +1,4 @@
 # WindowsSDK
-WindowsSDK 学习
 
 ## WindowsSDK 学习  
 
@@ -12,3 +11,5 @@ WindowsSDK 学习
 >- S02E01 Removed(Bad Code) 
 >- S02E02 Dll(Raw C)  
 >- S02E03 UsingDll(Raw C)  
+>- S02E04 HookDll(Raw C)  
+>- S02E05 UsingHook(Raw C)  
